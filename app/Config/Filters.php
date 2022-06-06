@@ -80,6 +80,6 @@ class Filters extends BaseConfig
                 'fradmin', 'map', 'sliders', 'pelayanan', 'layout',
                 'register'
             ],
-        ],
+        ]
     ];
 }
